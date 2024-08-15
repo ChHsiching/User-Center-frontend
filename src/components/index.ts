@@ -8,4 +8,4 @@
 import Footer from './Footer';
 import { Question } from './RightContent';
 import { AvatarDropdown, AvatarName } from './RightContent/AvatarDropdown';
-export { Footer, Question, SelectLang, AvatarDropdown, AvatarName };
+export { Footer, Question, AvatarDropdown, AvatarName };
